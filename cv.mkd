@@ -1,19 +1,33 @@
-Vaga
-====
+#Vaga
 
-[Preencha aqui a vaga que você pretende]
+#####Área de Esporte
+#####Área de Jornalismo
+#####Tsuru: Plataforma como serviço
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
-CV
-==
+##CV
 
-[Preencha aqui o seu cv]
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+####MICHAEL WILLIAN TRINDADE COELHO
+**Rua José Nigro, 110, Américo Brasiliense | (16) 9 9793 5436 | michael.tcoelho@gmail.com | 21 anos | Casado**#####OBJETIVOSTrabalhar com desenvolvimento de softwares em diferentes níveis de complexidade utilizando Python e seu ecossistema. Trabalhar em equipe utilizando metodologias ágeis. Compartilhar conhecimento, agregar valores, crescer profissionalmente e como pessoa.
+#####EDUCAÇÃO**Uniara, Araraquara** - **2014 – 2019 (esperado)**
+
+Bacharel, Engenharia da Computação.
+**Fatec, Taquaritinga** - **2013 – 2013 (trancado 2˚ semestre)**
+Tecnólogo, Análise e Desenvolvimento de Sistemas.
+**Senac, Araraquara** - **2010 – 2011 (conluído)**
+Técnico, Tecnologia da Informação.
+#####EXPERIÊNCIAS**Instrutor** - **2014 – até o momento**Idea Softwares – AraraquaraInstrutor Python na Idea Softwares, ensino das tecnologias ligadas a linguagem Python.**Desenvolvedor de Software** - **2012 – até o momento**
+ScanBrazilConsulting – Araraquara
+Responsável por desenvolver softwares em diferentes níveis de compexidade, softwares web e mobile para Azul Linhas Aéreas. Entre as ferramentas utilizadas estão C#, ASP. NET, ASP. NET MVC, WCF, Windows Services, SQL Server, TFS, HTML (5), CSS (3) e Javascript.**Desenvolvedor de Software** - **2012 – 2012**
+ITServ – AraraquaraResponsável por desenvolver um software para auxiliar nos processos em construções civis. Entre as ferramentas utilizadas estão C#, Windows Forms, Windows Services, SQL Server, TFS.#####HABILIDADES
+
+Python e seu ecosistema, C#, C, Java, JavaScript, MySQL, PostgreSQL, MongoDB, Nginx, uWSGI, HTML5, CSS3, Django, Flask, Celery, ElasticSearch. 
+#####IDIOMAS
+**Inglês**
+Aprendizado autodidata. Leitura e escrita corretamente, conversação mas não fluente.**Português**
+Fluente, nativo.#####PROJETOS**Deputados.gov**Projeto Open Source desenvolvido em Python, Django 1.6.1. Disponibiliza informações dos deputados da Câmara dos Deputados. Este foi o primeiro projeto que desenvolvi em python.#####LINKS**Deputados.gov -­‐ [deputados.herokuapp.com](http://deputados.herokuapp.com/)**
+**Linkedin -­‐ [linkedin](http://br.linkedin.com/in/michaetcoelho)**
+**Github -­‐ [github.com](https://github.com/michaeltcoelho)**
+
+**Codepen.io -­‐ [codepen.io](http://codepen.io/michaeltcoelho/) (Experimentos HTML5, CSS3 e Javascript)**￼
